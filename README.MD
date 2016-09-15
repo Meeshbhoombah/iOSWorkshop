@@ -3,4 +3,4 @@ Learn the basics of Swift 3 and Xcode by building a simple Calculator applicatio
 
 ## Calculator
 We'll start by creating a new project. With Xcode open, navigate to
-![Open Xcode](https://raw.github.com/Meeshbhoombah/iOSWorkshop/master/Screenshots/CreateProject.png)
+![Open Xcode](https://github.com/Meeshbhoombah/iOSWorkshop/blob/master/Screenshots/CreateProject.png)
