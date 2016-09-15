@@ -8,7 +8,7 @@ Swift is a easy language to understand. It has a clean, more modern, synxtax the
 
 To learn Swift we'll create a new Playground. As the name suggests, this will enable us to play around with Swift. With Xcode open, navigate to `File > New > Playground`.
 
-![Open Playgrouds](https://github.com/Meeshbhoombah/iOSWorkshop/blob/master/Screenshots/CreateProject.png)
+![Open Playgrouds]()
 
 -- TO BE ADDED: Remainder of Playgrouds opening instructions and intro into using Swift --
 
@@ -18,8 +18,7 @@ Let's start off by simply printing "Hello, World!" Swift allows us to accomplish
 As with every programming language, Swift enables users to create variables. Use the keyword `var` to declare a variable.
 ```Swift
   var myFirstVariable: String = "Hello, World!"
-
-
+```
 
 ## Calculator
 We'll start by creating a new project. With Xcode open, navigate to `File > New > Project`.
