@@ -17,7 +17,7 @@ Let's start off by simply printing "Hello, World!" Swift allows us to accomplish
 ## Variables
 As with every programming language, Swift enables users to create variables. Use the keyword `var` to declare a variable.
 ```Swift
-  var myFirstVariable: String = "Hello, World!"
+var myFirstVariable: String = "Hello, World!"
 ```
 
 ## Calculator
