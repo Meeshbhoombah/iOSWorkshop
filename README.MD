@@ -6,9 +6,9 @@ Learn the basics of Swift 3, Xcode, and handling errors by building a simple Cal
 	- [Variables](#)
 - [Calculator](#)
 
+## A Brief Introduction
 Before we start building the Calculator, we need to understand how to use Swift. Coincidentally, Apple just released Swift 3 and the non-beta version of Xcode 8 this week (alongside the launch of its new products). We'll cover the fundamentals of Swift 3 so that you have a solid foundation to follow.
 
-## Swift Basics
 Swift is a easy language to understand. It has a clean, more modern, syntax then it's predecessor, Objective-C, and it's use cases are endless. Not only
 
 We'll be using a Playground to learn Swift. As the name suggests, this will enable us to "play" around with Swift. With Xcode open, navigate to `File > New > Playground`.
@@ -17,6 +17,7 @@ We'll be using a Playground to learn Swift. As the name suggests, this will enab
 
 -- TO BE ADDED: Remainder of Playgrounds opening instructions and intro into using Swift --
 
+## Swift Basics
 Let's start off by printing `"Hello, World!"` Swift allows us to accomplish this with one line of code.
 ```Swift
 print("Hello, World!")`
