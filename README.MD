@@ -41,7 +41,7 @@ myFirstVariable = "Hello, Swift!"
 ```
 Now if we print out `myFirstVariable`, our output will be 'Hello, Swift!' instead of 'Hello, World!'
 
-Often, you'll find that you don't want a variable to be changed after it has been declared. To denote that, you can use a constant. This is called an immutable (or, unable to be changed) variable. You can initialize a constant using the keyword `let`. 
+Often, you'll find that you don't want a variable to be changed after it has been declared. To denote that, you can use a constant. This is called an immutable (or, unable to be changed) variable. You can initialize a constant using the keyword `let`.
 
 ## Calculator
 We'll start by creating a new project. With Xcode open, navigate to `File > New > Project`.
