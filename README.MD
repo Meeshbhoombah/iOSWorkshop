@@ -47,8 +47,6 @@ let languageName = "Swift"
 ```
 The name of Swift will never change, which is why this works as a good example of when to use a let.
 
-
-
 ## Calculator
 We'll start by creating a new project. With Xcode open, navigate to `File > New > Project`.
 
