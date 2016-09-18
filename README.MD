@@ -7,7 +7,7 @@ Learn the basics of Swift 3, Xcode, and handling errors by building a simple Cal
 - [Calculator](#)
 
 ## A Brief Introduction
-Before we start building the Calculator, we need to understand how to use Swift. Coincidentally, Apple just released Swift 3 and the non-beta version of Xcode 8 this week (alongside the launch of its new products). We'll cover the fundamentals of Swift 3 so that you have a solid foundation to follow.
+Before we start building the Calculator, we need to understand how to use Swift. We'll cover fundamentals in Swift so you have a strong basis to follow
 
 Swift is a easy language to understand. It has a clean, more modern, syntax then it's predecessor, Objective-C, and it's use cases are endless. Not only
 
@@ -42,6 +42,12 @@ myFirstVariable = "Hello, Swift!"
 Now if we print out `myFirstVariable`, our output will be 'Hello, Swift!' instead of 'Hello, World!'
 
 Often, you'll find that you don't want a variable to be changed after it has been declared. To denote that, you can use a constant. This is called an immutable (or, unable to be changed) variable. You can initialize a constant using the keyword `let`.
+```Swift
+let languageName = "Swift"
+```
+The name of Swift will never change, which is why this works as a good example of when to use a let.
+
+
 
 ## Calculator
 We'll start by creating a new project. With Xcode open, navigate to `File > New > Project`.
